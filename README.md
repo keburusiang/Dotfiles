@@ -1,4 +1,3 @@
 # Dotfiles
 ## Preview
-
-![scrot](img/GreenLight.png)
+![img](img/GreenLight.png)
