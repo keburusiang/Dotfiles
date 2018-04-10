@@ -1,0 +1,13 @@
+feh --bg-fill ~/Picture/ff.jpg &
+nitrogen --restore &
+plank &
+#tint2 -c ~/.config/tint2/[preset].tint2rc &
+#tint2 -c dotsfile/Tint2-Collections/Neomix/numix_red_taskbar.tint2rc &
+tint2 -c dotsfile/Tint2-Collections/Arc\ Irc\ Urc/ArcDark.tint2rc
+#tint2 -c ~/.config/tint2/numix-gnome.tint2rc
+compton &
+nm-applet &
+volumeicon &
+xfce4-power-manager &
+xrdb merge ~/.Xresources
+#. $HOME /.fehbg
