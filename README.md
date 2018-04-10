@@ -1,3 +1,3 @@
 # Dotfiles
 ## Preview
-![img](img/GreenLight.png)
+![img](GreenLight.png)
